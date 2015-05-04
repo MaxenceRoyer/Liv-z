@@ -1,0 +1,41 @@
+ul {
+    margin-top:10px;
+    margin-bottom:10px;
+    list-style-type:none;
+    padding:0px;
+}
+
+a {
+    color:darkslategrey;
+}
+
+a:hover {
+    text-decoration:none;
+    color:lightgray;
+}
+
+li:hover {
+    background-color:black
+}
+
+.liste_favoris > .row > p {
+    display:inline-block;
+}
+
+.case_nom {
+    width:90%;
+    text-align:left;
+}
+.case_icon {
+    width:20%;
+    text-align:right;
+}
+
+td {
+    padding:3px;
+}
+
+.input_search {
+    width:50%;
+}
+    
