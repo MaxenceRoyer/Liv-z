@@ -1,0 +1,77 @@
+ul {
+    margin-top:10px;
+    margin-bottom:10px;
+    list-style-type:none;
+    padding:0px;
+}
+
+a {
+    color:darkslategrey;
+}
+
+a:hover {
+    text-decoration:none;
+    color:lightgray;
+}
+
+li:hover {
+    background-color:black
+}
+
+h2 {
+    font-size:20px;
+    margin-top:10px;
+}
+
+h3 {
+    font-weight:600;
+    font-size:15px;
+    text-align:left;
+}
+
+.message_favoris > p {
+    line-height:20px;
+}
+
+.message_favoris {
+    overflow:auto;
+}
+
+.container_live {
+    background-color:black;
+    height:85%;
+}
+
+.partie_principal {
+    height:400px;
+}
+
+.partie_secondaire {
+    height:200px;
+}
+
+.container_stream, .container_liste, .container_message, .container_news, .container_sondage {
+    height:100%;
+}
+
+.liste_actuel, .liste_favoris {
+    height:40%;
+    overflow:auto;
+}
+
+.titre_favoris, .titre_actuel, .titre_message {
+    height:10%; 
+}
+
+.titre_news, .titre_sondage {
+    height:20%;
+}
+
+.message_sondage, .message_news {
+    overflox:auto;
+    height:80%;
+}
+
+.button_voir {
+    padding:0px;
+}
