@@ -11,7 +11,9 @@ Suivez les instructions ci-dessus DANS L'ORDRE pour lancer le projet :)
 
 ## Nécessite NodeJS, NPM & GIT
 
-Installer NPM : npm install --global npm@latest
+Installer npm : curl http://npmjs.org/install.sh | sh
+
+Mettre à jours : npm install --global npm@latest
 
 ## Installer Yeoman
 
