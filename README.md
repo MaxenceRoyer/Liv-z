@@ -29,6 +29,10 @@ Lancez la commande : npm install --global generator-angular@0.11.1
 
 Plus d'infos ici : http://yeoman.io/codelab/install-generators.html
 
+## La première fois, réalisez cette étape
+
+http://yeoman.io/codelab/scaffold-app.html
+
 ## Lancer l'application
 
 Une fois installé, seule cette commande doit être lancée ;)
